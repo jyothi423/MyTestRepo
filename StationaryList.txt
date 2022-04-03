@@ -1,0 +1,5 @@
+pencils
+erasers
+compass
+ruler
+sharpener
